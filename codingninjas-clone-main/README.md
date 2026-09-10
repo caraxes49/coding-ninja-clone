@@ -100,6 +100,3 @@ https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts
 
 ● Matching the original Coding Ninjas visuals
 
-# ❤️ Developer
-
-Developed by — "Rohan 💓"
